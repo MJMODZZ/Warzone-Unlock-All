@@ -8,3 +8,4 @@ A silmple Warzone Unlock All 👌
 - [ ] - [Perk Swapper](https://dsc.gg/mjmodzz)
 
 # Join my [Discord](https://dsc.gg/mjmodzz)
+This is just a Unlock Tool Simulator lol
